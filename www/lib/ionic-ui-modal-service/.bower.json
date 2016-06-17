@@ -1,0 +1,14 @@
+{
+  "name": "ionic-ui-modal-service",
+  "homepage": "https://github.com/wataruoguchi/ionic-ui-modal-service",
+  "_release": "e3503170b3",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "e3503170b3373f2c8fd6c9faf8dead724cc91b92"
+  },
+  "_source": "https://github.com/wataruoguchi/ionic-ui-modal-service.git",
+  "_target": "*",
+  "_originalSource": "https://github.com/wataruoguchi/ionic-ui-modal-service.git",
+  "_direct": true
+}

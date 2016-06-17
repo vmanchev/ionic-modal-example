@@ -1,0 +1,14 @@
+<div class="modal">
+    <ion-header-bar class="bar bar-header bar-positive">
+        <h1 class="title">{{ modalData.title}}</h1>
+        <button class="button button-clear button-primary" ng-click="vm.closeModal(vm)">Close</button>
+    </ion-header-bar>
+    <ion-content>
+
+        Select date: <input type="date" ng-model="vm.selectedDate" style="border: solid 1px #ddd;" />
+
+        <button ng-click="vm.okButton(vm)">OK</button>
+        <button ng-click="vm.cancelButton(vm)">Cancel</button>
+
+    </ion-content>
+</div>
